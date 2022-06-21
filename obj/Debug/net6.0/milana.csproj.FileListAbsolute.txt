@@ -1,0 +1,15 @@
+/Users/sprintpay/CsharpProjects/milana/bin/Debug/net6.0/milana
+/Users/sprintpay/CsharpProjects/milana/bin/Debug/net6.0/milana.deps.json
+/Users/sprintpay/CsharpProjects/milana/bin/Debug/net6.0/milana.runtimeconfig.json
+/Users/sprintpay/CsharpProjects/milana/bin/Debug/net6.0/milana.dll
+/Users/sprintpay/CsharpProjects/milana/bin/Debug/net6.0/milana.pdb
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/milana.csproj.AssemblyReference.cache
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/milana.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/milana.AssemblyInfoInputs.cache
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/milana.AssemblyInfo.cs
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/milana.csproj.CoreCompileInputs.cache
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/milana.dll
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/refint/milana.dll
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/milana.pdb
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/milana.genruntimeconfig.cache
+/Users/sprintpay/CsharpProjects/milana/obj/Debug/net6.0/ref/milana.dll
